@@ -51,4 +51,6 @@ public class CandyBox {
         if (flavor != null ? !flavor.equals(candyBox.flavor) : candyBox.flavor != null) return false;
         return origin != null ? origin.equals(candyBox.origin) : candyBox.origin == null;
     }
+    public void printDim() {
+    }
 }

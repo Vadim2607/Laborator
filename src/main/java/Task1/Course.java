@@ -1,4 +1,4 @@
-package task2;
+package Task1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
